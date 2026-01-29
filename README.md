@@ -15,10 +15,10 @@ I'm a former algorithm engineer dedicated to building **DevFox AI**. I believe i
 ---
 
 ### 📊 GitHub Activity
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ming-H&show_icons=true&theme=tokyonight&hide_border=true" alt="Ming-H Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ming-H&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="170" />
-</div>
+
+![Ming-H Stats](https://github-readme-stats.vercel.app/api?username=Ming-H&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ming-H&layout=compact&theme=tokyonight)
 
 ---
 
