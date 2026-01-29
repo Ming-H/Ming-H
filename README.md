@@ -25,4 +25,4 @@ I'm a former algorithm engineer dedicated to building **DevFox AI**. I believe i
 ### 🌐 Connect with me
 - **Twitter**: [@MingFire520](https://twitter.com/MingFire520)
 - **Website**: [devfoxai.cn](https://www.devfoxai.cn/)
-- **Email**: [minghao.devfox@gmail.com](mailto:1518246548@qq.com)
+- **Email**: [1518246548@qq.com](mailto:1518246548@qq.com)
