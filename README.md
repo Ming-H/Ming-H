@@ -16,9 +16,9 @@ I'm a former algorithm engineer dedicated to building **DevFox AI**. I believe i
 
 ### 📊 GitHub Activity
 
-![Ming-H Stats](https://github-readme-stats.vercel.app/api?username=Ming-H&show_icons=true&theme=tokyonight)
+![Ming-H Stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=Ming-H&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ming-H&layout=compact&theme=tokyonight)
+![Top Langs](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Ming-H&layout=compact&theme=tokyonight)
 
 ---
 
